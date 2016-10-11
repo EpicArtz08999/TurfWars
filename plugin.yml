@@ -1,4 +1,5 @@
-name: RRTurfWars
+name: TurfWars
 author: Syntaxious @ RR, HypertextPP @ RR
 api: 2.0.0
 load: POSTWORLD
+main: TurfWars\Main
